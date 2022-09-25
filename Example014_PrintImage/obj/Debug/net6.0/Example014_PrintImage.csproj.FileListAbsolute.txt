@@ -1,0 +1,15 @@
+C:\Users\123\Desktop\Examples\Example014_PrintImage\obj\Debug\net6.0\Example014_PrintImage.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\Examples\Example014_PrintImage\obj\Debug\net6.0\Example014_PrintImage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Desktop\Examples\Example014_PrintImage\obj\Debug\net6.0\Example014_PrintImage.AssemblyInfoInputs.cache
+C:\Users\123\Desktop\Examples\Example014_PrintImage\obj\Debug\net6.0\Example014_PrintImage.AssemblyInfo.cs
+C:\Users\123\Desktop\Examples\Example014_PrintImage\obj\Debug\net6.0\Example014_PrintImage.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\Examples\Example014_PrintImage\bin\Debug\net6.0\Example014_PrintImage.exe
+C:\Users\123\Desktop\Examples\Example014_PrintImage\bin\Debug\net6.0\Example014_PrintImage.deps.json
+C:\Users\123\Desktop\Examples\Example014_PrintImage\bin\Debug\net6.0\Example014_PrintImage.runtimeconfig.json
+C:\Users\123\Desktop\Examples\Example014_PrintImage\bin\Debug\net6.0\Example014_PrintImage.dll
+C:\Users\123\Desktop\Examples\Example014_PrintImage\bin\Debug\net6.0\Example014_PrintImage.pdb
+C:\Users\123\Desktop\Examples\Example014_PrintImage\obj\Debug\net6.0\Example014_PrintImage.dll
+C:\Users\123\Desktop\Examples\Example014_PrintImage\obj\Debug\net6.0\refint\Example014_PrintImage.dll
+C:\Users\123\Desktop\Examples\Example014_PrintImage\obj\Debug\net6.0\Example014_PrintImage.pdb
+C:\Users\123\Desktop\Examples\Example014_PrintImage\obj\Debug\net6.0\Example014_PrintImage.genruntimeconfig.cache
+C:\Users\123\Desktop\Examples\Example014_PrintImage\obj\Debug\net6.0\ref\Example014_PrintImage.dll
